@@ -136,14 +136,6 @@ Exemples de plugins  :
 - **eza** : pour utiliser eza avec la commandes **ls**
 
 ---
-layout: center
-class: text-center
-hideInToc: true
----
-
-# Merci
-
----
 transition: slide-left
 ---
 
